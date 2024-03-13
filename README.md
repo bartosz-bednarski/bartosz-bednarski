@@ -6,10 +6,7 @@ My name is Bartosz and I am Front-End developer. I have 1.5 years of experience 
 - 🌱 I’m currently learning Cypress
 - 👯 I’m looking to collaborate on React and React Native projects.
 
-## Contact 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<br/>
-★ bartosz.bednarski97@gmail.com <br/>
-★ [https://www.linkedin.com/in/bartosz-bednarski-050196234/](https://www.linkedin.com/in/bartosz-bednarski-050196234/) <br/>
+
 
 ## Technologies
 
@@ -34,3 +31,8 @@ My name is Bartosz and I am Front-End developer. I have 1.5 years of experience 
 ## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartosz-bednarski&layout=compact)](https://github.com/bartosz-bednarski)
 [![bartosz-bednarski’s github stats](https://github-readme-stats.vercel.app/api?username=bartosz-bednarski)](https://github.com/bartosz-bednarski)
+
+## Contact 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<br/>
+★ bartosz.bednarski97@gmail.com <br/>
+★ [https://www.linkedin.com/in/bartosz-bednarski-050196234/](https://www.linkedin.com/in/bartosz-bednarski-050196234/) <br/>
