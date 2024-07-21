@@ -2,8 +2,8 @@
 
 
 My name is Bartosz and I am Front-End developer. I have 1.5 years of experience in programming web applications including 3 months of commercial experience. 
-- 🔭 I’m currently working on mobile app on android "Ogarnięty budżet" with React Native
-- 🌱 I’m currently learning Cypress
+- 🔭 I’m currently working on filmnawieczor.pl - website about movies and series
+- 🌱 I’m currently learning Jest, SEO and improving my skills in React, TS and CSS animations.
 - 👯 I’m looking to collaborate on React and React Native projects.
 
 
