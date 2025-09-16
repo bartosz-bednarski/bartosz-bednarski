@@ -1,10 +1,11 @@
 # <p align="center">Hello there 👋 I'm Bartosz Bednarski</p> <p align="center">Front-End developer from Poland</p>
 
 
-My name is Bartosz and I am Front-End developer. I have 1.5 years of experience in programming web applications including 3 months of commercial experience. 
-- 🔭 I’m currently working on filmnawieczor.pl - website about movies and series
-- 🌱 I’m currently learning Jest, SEO and improving my skills in React, TS and CSS animations.
-- 👯 I’m looking to collaborate on React and React Native projects.
+My name is Bartosz and I am Front-End developer based in Kraków. 
+- 🌱 I run my own company, WebSquirrel which specializes in designing and developing websites and online stores for clients.
+- 🔭 I’m currently working on [interior-designer-template-omega.vercel.app/](https://interior-designer-template-omega.vercel.app/) - website template for interior designers built with PayloadCMS.
+- 🌱 I’m currently learning PayloadCMS and DavinciResolve.
+- 👯 I’m looking to collaborate on React and Next.js projects.
 
 
 
